@@ -1,0 +1,25 @@
+@font-face {font-family: "DIN Next Rounded LT W01 Bold";
+  src: url(""); /* IE9*/
+  src: url("urn:scrapbook:download:error:https://cdn.shopify.com/s/files/1/1321/0591/t/15/assets/d778c9af6f0c7bfb6f10d9e34e71a43f.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+  url("d778c9af6f0c7bfb6f10d9e34e71a43f.woff2") format("woff2"), /* chrome、firefox */
+  url("d778c9af6f0c7bfb6f10d9e34e71a43f.woff") format("woff"), /* chrome、firefox */
+  url("d778c9af6f0c7bfb6f10d9e34e71a43f.ttf") format("truetype"), /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
+  url("urn:scrapbook:download:error:https://cdn.shopify.com/s/files/1/1321/0591/t/15/assets/d778c9af6f0c7bfb6f10d9e34e71a43f.svg#DIN%20Next%20Rounded%20LT%20W01%20Bold") format("svg"); /* iOS 4.1- */
+}
+
+@font-face {font-family: "din_net_rounded";
+  src: url("603edc8f-ac19-4986-9e46-de7f08aebd4c.eot") format("eot"), 
+  url("2e4e6c5b-d235-4ca6-8550-8cb1b6c77621.woff2") format("woff2"), 
+  url("ddfe8678-9044-401c-be1c-b4d9d8669509.woff") format("woff"), 
+  url("bb927257-476c-460a-aecb-3077418b07eb.ttf") format("truetype"), 
+  url("5ce59756-eaf3-46ba-bc86-b3b134944d9f.svg") format("svg");
+  font-style: normal;
+  font-weight: normal;
+}
+
+.demo{
+    font-family:"DIN Next Rounded LT W01 Bold" !important;
+    font-size:16px;font-style:normal;
+    -webkit-font-smoothing: antialiased;
+    -webkit-text-stroke-width: 0.2px;
+    -moz-osx-font-smoothing: grayscale;}
